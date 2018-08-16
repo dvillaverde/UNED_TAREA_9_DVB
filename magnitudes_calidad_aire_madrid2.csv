@@ -1,0 +1,18 @@
+﻿MAGNITUD;Nombre_Largo;Nombre_corto;Valor_ref
+1;Dioxido de Azufre;SO2;125.0
+6;Monoxido Carbono;CO;10.0
+7;Monoxido Nitrogeno;NO;0.0
+8;Dioxido Nitrogeno;NO2;200.0
+9;Particulas 2 y medio;PM2;0.0
+10;Particulas 10;PM10;50.0
+12;Oxidos de Nitrogeno;Nox;0.0
+14;Ozono;O3;120.0
+20;Tolueno;TOL;0.0
+30;Benceno;BEN;0.0
+35;Etilbenceno;EBE;0.0
+37;Metaxileno;MXY;0.0
+38;Paraxileno;PXY;0.0
+39;Ortoxileno;OXY;0.0
+42;Hidrocarburos Totales;TCH;0.0
+43;Metano;CH4;0.0
+44;Hidrocarb No metanicos - Hexano;NMHC;0.0
